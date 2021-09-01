@@ -4,6 +4,7 @@ In this project we are going to be building a news feed reader. The goal is to h
 
 ## Need to know
 TEST TEST TEST TEST
+testing second tab
 * Creating DOM elements with Javascript Functions
 * Element selection
 * Basic DOM manipulation
